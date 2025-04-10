@@ -1,1 +1,1 @@
-# seasonalBite-assets
+# SeasonalBite Assets
